@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6be10547cffdbc0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week_1/Day 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 201.5
   },
   "right": {
     "id": "a24539d39f8634c9",
@@ -136,9 +149,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "db86c34e715968aa",
+  "active": "6be10547cffdbc0c",
   "lastOpenFiles": [
-    "README.md",
-    "Week_1/Day 1.md"
+    "VS Code Notes/Better Comments.md",
+    "Week_1/Day 1.md",
+    "Line 1.md",
+    "2022-11-28.md",
+    "README.md"
   ]
 }
