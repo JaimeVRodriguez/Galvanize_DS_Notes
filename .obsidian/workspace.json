@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week_1/Day 2.md",
+                "file": "VS Code Notes/Better Comments.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week_1/Day 2.md",
+                "file": "VS Code Notes/Better Comments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week_1/Day 2.md",
+                "file": "VS Code Notes/Better Comments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week_1/Day 2.md"
+                "file": "VS Code Notes/Better Comments.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "f62acfd209c3c50b",
   "lastOpenFiles": [
-    "Week_1/Day 1.md",
     "Week_1/Day 2.md",
+    "Week_1/Day 1.md",
     "VS Code Notes/Better Comments.md",
     "Line 1.md",
     "2022-11-28.md",
