@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db86c34e715968aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week_1/Day 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6be10547cffdbc0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week_1/Day 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f62acfd209c3c50b",
             "type": "leaf",
             "state": {
@@ -42,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "22ddf49014fcc9af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week_1/Day 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VS Code Notes/Better Comments.md",
+                "file": "Week_1/Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VS Code Notes/Better Comments.md",
+                "file": "Week_1/Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VS Code Notes/Better Comments.md"
+                "file": "Week_1/Day 3.md"
               }
             }
           }
@@ -161,9 +149,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f62acfd209c3c50b",
+  "active": "22ddf49014fcc9af",
   "lastOpenFiles": [
     "Week_1/Day 2.md",
+    "Week_1/Day 3.md",
     "Week_1/Day 1.md",
     "VS Code Notes/Better Comments.md",
     "Line 1.md",
