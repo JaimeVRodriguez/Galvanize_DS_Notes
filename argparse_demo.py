@@ -21,3 +21,16 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     print(args)
+
+
+    # tested version
+        parser = argparse.ArgumentParser(
+        description="The file paths needed."
+    )
+
+    parser.add_argument("-i", "--input", type=str,
+                        required=True, help="input file")
+    parser.add_argument("-o", "--output", type=str,
+                        required=True, help="output file")
+
+    args = parser.parse_args()
