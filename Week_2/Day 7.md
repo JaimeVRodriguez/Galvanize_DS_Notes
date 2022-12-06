@@ -1,0 +1,14 @@
+## Numpy
+***
+
+### Basics
+
+Standard import of numpy
+`import numpy as np`
+
+Creating a numpy array
+```
+my_lst_ndarray = np.arry([1, 2, 3, 4, 5])
+my_tuple_ndarray = np.array((1, 2, 3, 4, 5), np.int32)
+```
+
