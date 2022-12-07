@@ -12,3 +12,13 @@ my_lst_ndarray = np.arry([1, 2, 3, 4, 5])
 my_tuple_ndarray = np.array((1, 2, 3, 4, 5), np.int32)
 ```
 
+Examples
+![[numpy_basics.ipynb]]
+
+### Arithmetic
+![[arithmetic.ipynb]]
+
+### Reshaping/Transposing
+![[reshaping.ipynb]]
+
+### Indexing
