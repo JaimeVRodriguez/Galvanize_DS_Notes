@@ -22,3 +22,11 @@ Examples
 ![[reshaping.ipynb]]
 
 ### Indexing
+
+
+### Loading CSV
+https://numpy.org/doc/stable/reference/generated/numpy.loadtxt.html
+`numpy.loadtxt()`
+
+need a delimiter - how the items are split
+`numpy.loadtxt(delimiter=",")`
