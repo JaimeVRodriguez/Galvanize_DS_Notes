@@ -79,4 +79,32 @@ mango     3      2.5     41.0
 pear      1      0.0     10.0
 ```
 
-### 
+### Data Frame
+
+Change the index as one of the columns in the data frame
+```py
+df.set_index("column_name", inplace=True)
+```
+
+Gives all rows and the non-null count and types of each row
+``` py
+df.info()
+```
+
+Breaks down the statistics of the whole data frame 
+```py
+df.describe`
+```
+
+### Boolean Masks
+
+returns the rows that meat the condition
+```py
+df_name[df_name["column_name"] == "codition"].head()
+```
+
+compound conditions
+```py
+df_name[(df_name["column_name"] == "codition") & (df_name["column_name"] == "condition")].head()
+```
+
