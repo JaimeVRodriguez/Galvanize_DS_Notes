@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week_2/Day 6.md",
+                "file": "Week_2/Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week_2/Day 8.md",
+                "file": "Week_2/Day 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week_2/Day 9.md",
+                "file": "Week_2/Day 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week_2/Day 9.md",
+                "file": "Week_2/Day 5.md",
                 "mode": "preview",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week_2/Day 9.md",
+                "file": "Week_2/Day 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week_2/Day 9.md",
+                "file": "Week_2/Day 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week_2/Day 9.md"
+                "file": "Week_2/Day 5.md"
               }
             }
           }
@@ -205,12 +205,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03ad2fa852406e93",
+  "active": "d065d589e193a4b9",
   "lastOpenFiles": [
-    "Week_2/Day 8.md",
-    "Week_2/Day 9.md",
+    "Week_2/Day 4.md",
+    "Week_2/Day 1.md",
+    "Week_2/Day 5.md",
     "Week_1/Day 5.md",
-    "Week_2/Day 6.md",
     "Week_1/Day 1.md",
     "Week_1/Day 2.md",
     "Week_1/Day 4.md",
