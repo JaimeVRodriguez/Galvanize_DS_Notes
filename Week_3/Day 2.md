@@ -1,10 +1,6 @@
 ## Data Visualization
 ***
 
-
-***
-***
-
 ## EDA
 
 ### Types of Data
