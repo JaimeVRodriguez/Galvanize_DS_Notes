@@ -44,14 +44,28 @@ docker run --name pgserv -d \
 skylarenglish/galvanize:galv_db
 ```
 
-Execute to access postgres
-```docker
-docker exec -it pgserv psql -U postgres
-```
+Execute to access postgres from outside container
+`docker exec -it pgserv psql -U postgres`
+
+From inside container
+`docker psql -U postgres`
 
 List Databases
-	`-l` or `--list`
+`\l` 
 
-Connect to Postgres SQL Databases
-`-c` or `--connect`
+Connect
+`\c`
 
+Describe
+`\d`
+
+
+Quick SQL Command - will have further lessons
+```sql
+SELECT *
+FROM table_name
+LIMIT 10;
+```
+
+
+docker run --name cloudbeaver --rm -ti -p 8080:8978 -v "$PWD":/opt/cloudbeaver/workspace dbeaver/cloudbeaver:latest
