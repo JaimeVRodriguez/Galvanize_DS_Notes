@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43cd50733e151f37",
+            "id": "392a55761f51e91b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week_2/Day 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a12fa410f613641f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week_3/Day 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a92e85aebde440f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week_3/Day 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50534f486292a984",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week_3/Day 4.md",
+                "file": "Week_4/Day 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week_3/Day 4.md",
+                "file": "Week_4/Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week_3/Day 4.md",
+                "file": "Week_4/Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week_3/Day 4.md"
+                "file": "Week_4/Day 1.md"
               }
             }
           }
@@ -173,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "50534f486292a984",
+  "active": "392a55761f51e91b",
   "lastOpenFiles": [
-    "Week_3/Day 2.md",
+    "Week_2/Day 5.md",
     "Week_3/Day 1.md",
     "Week_3/Day 4.md",
+    "Week_3/Day 2.md",
+    "Week_4/Day 1.md",
     "EDA Markdown.md",
-    "Week_2/Day 5.md",
     "Week_2/Day 4.md",
     "Week_2/Day 1.md",
     "Week_1/Day 5.md",
-    "Week_1/Day 1.md",
-    "Week_1/Day 2.md"
+    "Week_1/Day 1.md"
   ]
 }
