@@ -67,5 +67,6 @@ FROM table_name
 LIMIT 10;
 ```
 
+Starting CloudBeaver
+`docker run --name cloudbeaver --rm -ti -p 8080:8978 -v "$PWD":/opt/cloudbeaver/workspace dbeaver/cloudbeaver:latest`
 
-docker run --name cloudbeaver --rm -ti -p 8080:8978 -v "$PWD":/opt/cloudbeaver/workspace dbeaver/cloudbeaver:latest
