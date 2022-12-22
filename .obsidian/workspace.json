@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad0d5f25558a882d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week_4/Day 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week_4/Day 3.md",
+                "file": "Week_4/Day 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week_4/Day 3.md",
+                "file": "Week_4/Day 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week_4/Day 3.md"
+                "file": "Week_4/Day 4.md"
               }
             }
           }
@@ -146,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "918bcda0af6e628b",
+  "active": "ad0d5f25558a882d",
   "lastOpenFiles": [
-    "Week_4/Day 2.md",
     "Week_4/Day 3.md",
+    "Week_4/Day 2.md",
     "Week_4/Day 1.md",
     "Week_2/Day 5.md",
     "Week_3/Day 1.md",
