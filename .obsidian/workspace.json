@@ -28,9 +28,21 @@
                 "file": "Screenshot 2022-12-12 at 10.23.11 AM.png"
               }
             }
+          },
+          {
+            "id": "587252a3a765dd00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week_5/Day 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week_4/Day 3.md",
+                "file": "Week_5/Day 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week_4/Day 3.md",
+                "file": "Week_5/Day 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week_4/Day 3.md"
+                "file": "Week_5/Day 5.md"
               }
             }
           }
@@ -157,17 +169,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d065d589e193a4b9",
+  "active": "587252a3a765dd00",
   "lastOpenFiles": [
+    "Week_4/Day 1.md",
+    "Week_4/Day 4.md",
+    "Week_5/Day 5.md",
+    "Week_4/Day 3.md",
     "README.md",
     "Untitled.canvas",
-    "Week_4/Day 4.md",
-    "Week_4/Day 3.md",
     "Week_4/Day 2.md",
-    "Week_4/Day 1.md",
     "Week_2/Day 5.md",
     "Week_3/Day 1.md",
-    "Week_3/Day 4.md",
-    "Week_3/Day 2.md"
+    "Week_3/Day 4.md"
   ]
 }
