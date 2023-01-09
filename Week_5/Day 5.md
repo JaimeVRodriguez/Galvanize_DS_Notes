@@ -61,3 +61,27 @@ P(A) * P(B)
 #### Dependent events
 P(AndB) = P(A) x P(B|A)
 
+***
+
+## Statistics Intro 
+μ - mean
+
+
+N - population number
+n - sample number
+
+
+Population Variance - sum of squared differences between each observation and the mean / divided by size![[Screenshot 2023-01-09 at 4.03.06 PM.png]]
+![[Screenshot 2023-01-09 at 4.04.03 PM.png]]
+Sample Variace - sum of squared differences between each observation and the mean / divided by size minus 1
+![[Screenshot 2023-01-09 at 4.03.14 PM.png]]
+![[Screenshot 2023-01-09 at 4.04.13 PM.png]]
+***
+
+## Discrete Distribution
+
+Expectation - Mean
+
+Standard deviation is the sqauare root of the variance
+
+Kurtosis characterizes the heavy-tailed-ness of a distrubtion
