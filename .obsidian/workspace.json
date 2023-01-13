@@ -47,14 +47,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week_5/Day 5.md",
+                "file": "Week_6/Day 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b1e03f9443dc9d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 5.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week_5/Day 5.md",
+                "file": "Day 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week_5/Day 5.md",
+                "file": "Day 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week_5/Day 5.md"
+                "file": "Day 5.md"
               }
             }
           }
@@ -181,7 +193,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41ada9eb08695701",
+  "active": "1b1e03f9443dc9d4",
   "lastOpenFiles": [
     "Week_6/Day 1.md",
     "Week_5/Day 5.md",
